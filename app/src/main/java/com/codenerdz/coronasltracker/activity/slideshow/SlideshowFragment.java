@@ -1,4 +1,4 @@
-package com.codenerdz.coronasltracker.ui.slideshow;
+package com.codenerdz.coronasltracker.activity.slideshow;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

@@ -1,4 +1,4 @@
-package com.codenerdz.coronasltracker.ui.gallery;
+package com.codenerdz.coronasltracker.activity.gallery;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
